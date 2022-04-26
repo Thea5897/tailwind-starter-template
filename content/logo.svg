@@ -1,0 +1,58 @@
+<svg id="Component_1_1" data-name="Component 1 – 1" xmlns="http://www.w3.org/2000/svg" width="369.585" height="237.693" viewBox="0 0 369.585 237.693">
+  <g id="Group_6" data-name="Group 6" transform="translate(-78 -26.176)">
+    <text id="VILD_" data-name="VILD " transform="translate(78 152.523)" fill="#fff" font-size="82" font-family="Lato-Regular, Lato"><tspan x="0" y="0">VILD </tspan></text>
+    <text id="SKUD" transform="translate(136.179 245.869)" fill="#fff" font-size="86" font-family="Lato-Regular, Lato"><tspan x="0" y="0">SKUD</tspan></text>
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="matrix(0.985, -0.174, 0.174, 0.985, 271.508, 46.381)" fill="none" stroke="#fff" stroke-width="4">
+      <circle cx="58.179" cy="58.179" r="58.179" stroke="none"/>
+      <circle cx="58.179" cy="58.179" r="56.179" fill="none"/>
+    </g>
+    <g id="Ellipse_8" data-name="Ellipse 8" transform="matrix(0.985, -0.174, 0.174, 0.985, 284.022, 69.493)" fill="none" stroke="#fff" stroke-width="4">
+      <circle cx="58.179" cy="58.179" r="58.179" stroke="none"/>
+      <circle cx="58.179" cy="58.179" r="56.179" fill="none"/>
+    </g>
+    <g id="Ellipse_2" data-name="Ellipse 2" transform="matrix(0.985, -0.174, 0.174, 0.985, 312.912, 53.85)" fill="none" stroke="#fff" stroke-width="4">
+      <circle cx="50.907" cy="50.907" r="50.907" stroke="none"/>
+      <circle cx="50.907" cy="50.907" r="48.907" fill="none"/>
+    </g>
+    <g id="Ellipse_3" data-name="Ellipse 3" transform="matrix(0.985, -0.174, 0.174, 0.985, 303.882, 74.431)" fill="none" stroke="#fff" stroke-width="4">
+      <circle cx="50.907" cy="50.907" r="50.907" stroke="none"/>
+      <circle cx="50.907" cy="50.907" r="48.907" fill="none"/>
+    </g>
+    <g id="Ellipse_9" data-name="Ellipse 9" transform="matrix(0.985, -0.174, 0.174, 0.985, 329.638, 88.879)" fill="none" stroke="#fff" stroke-width="4">
+      <circle cx="50.907" cy="50.907" r="50.907" stroke="none"/>
+      <circle cx="50.907" cy="50.907" r="48.907" fill="none"/>
+    </g>
+    <g id="Ellipse_5" data-name="Ellipse 5" transform="matrix(0.985, -0.174, 0.174, 0.985, 329.999, 90.925)" fill="none" stroke="#fff" stroke-width="4">
+      <ellipse cx="23.895" cy="24.934" rx="23.895" ry="24.934" stroke="none"/>
+      <ellipse cx="23.895" cy="24.934" rx="21.895" ry="22.934" fill="none"/>
+    </g>
+  </g>
+  <g id="Group_7" data-name="Group 7" transform="translate(-78 -26.176)">
+    <text id="VILD_2" data-name="VILD " transform="translate(78 152.523)" fill="#fff" font-size="82" font-family="Lato-Regular, Lato"><tspan x="0" y="0">VILD </tspan></text>
+    <text id="SKUD-2" data-name="SKUD" transform="translate(136.179 245.869)" fill="#fff" font-size="86" font-family="Lato-Regular, Lato"><tspan x="0" y="0">SKUD</tspan></text>
+    <g id="Ellipse_1-2" data-name="Ellipse 1" transform="matrix(0.985, -0.174, 0.174, 0.985, 271.508, 46.381)" fill="none" stroke="#fff" stroke-width="4">
+      <circle cx="58.179" cy="58.179" r="58.179" stroke="none"/>
+      <circle cx="58.179" cy="58.179" r="56.179" fill="none"/>
+    </g>
+    <g id="Ellipse_8-2" data-name="Ellipse 8" transform="matrix(0.985, -0.174, 0.174, 0.985, 284.022, 69.493)" fill="none" stroke="#fff" stroke-width="4">
+      <circle cx="58.179" cy="58.179" r="58.179" stroke="none"/>
+      <circle cx="58.179" cy="58.179" r="56.179" fill="none"/>
+    </g>
+    <g id="Ellipse_2-2" data-name="Ellipse 2" transform="matrix(0.985, -0.174, 0.174, 0.985, 312.912, 53.85)" fill="none" stroke="#fff" stroke-width="4">
+      <circle cx="50.907" cy="50.907" r="50.907" stroke="none"/>
+      <circle cx="50.907" cy="50.907" r="48.907" fill="none"/>
+    </g>
+    <g id="Ellipse_3-2" data-name="Ellipse 3" transform="matrix(0.985, -0.174, 0.174, 0.985, 303.882, 74.431)" fill="none" stroke="#fff" stroke-width="4">
+      <circle cx="50.907" cy="50.907" r="50.907" stroke="none"/>
+      <circle cx="50.907" cy="50.907" r="48.907" fill="none"/>
+    </g>
+    <g id="Ellipse_9-2" data-name="Ellipse 9" transform="matrix(0.985, -0.174, 0.174, 0.985, 329.638, 88.879)" fill="none" stroke="#fff" stroke-width="4">
+      <circle cx="50.907" cy="50.907" r="50.907" stroke="none"/>
+      <circle cx="50.907" cy="50.907" r="48.907" fill="none"/>
+    </g>
+    <g id="Ellipse_5-2" data-name="Ellipse 5" transform="matrix(0.985, -0.174, 0.174, 0.985, 329.999, 90.925)" fill="none" stroke="#fff" stroke-width="4">
+      <ellipse cx="23.895" cy="24.934" rx="23.895" ry="24.934" stroke="none"/>
+      <ellipse cx="23.895" cy="24.934" rx="21.895" ry="22.934" fill="none"/>
+    </g>
+  </g>
+</svg>
